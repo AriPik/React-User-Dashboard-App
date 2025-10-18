@@ -39,10 +39,10 @@ Each folder runs independently with its own dependencies and configurations.
 The following screenshots illustrate the core user interface across different implementations:
 
 ### Dashboard View  
-![Dashboard](./Screenshots/dashboard.png)
+![Dashboard](./Screenshots/Dashboard.png)
 
 ### User Details View  
-![User Details](./Screenshots/details.png)
+![User Details](./Screenshots/Details.png)
 
 These visuals represent the main dashboard with user cards and the detailed user view featuring contact information and an interactive map.
 
